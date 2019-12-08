@@ -1,2 +1,2 @@
 # RLPT
-Reinforcement learning presentation example
+Reinforcement learning presentation example with gym taxi environment
